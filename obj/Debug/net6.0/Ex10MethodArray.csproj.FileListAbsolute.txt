@@ -1,0 +1,15 @@
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\bin\Debug\net6.0\Ex10MethodArray.exe
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\bin\Debug\net6.0\Ex10MethodArray.deps.json
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\bin\Debug\net6.0\Ex10MethodArray.runtimeconfig.json
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\bin\Debug\net6.0\Ex10MethodArray.dll
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\bin\Debug\net6.0\Ex10MethodArray.pdb
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\obj\Debug\net6.0\Ex10MethodArray.csproj.AssemblyReference.cache
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\obj\Debug\net6.0\Ex10MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\obj\Debug\net6.0\Ex10MethodArray.AssemblyInfoInputs.cache
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\obj\Debug\net6.0\Ex10MethodArray.AssemblyInfo.cs
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\obj\Debug\net6.0\Ex10MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\obj\Debug\net6.0\Ex10MethodArray.dll
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\obj\Debug\net6.0\refint\Ex10MethodArray.dll
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\obj\Debug\net6.0\Ex10MethodArray.pdb
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\obj\Debug\net6.0\Ex10MethodArray.genruntimeconfig.cache
+C:\Users\kate\Documents\Sharp\leson2\Ex10MethodArray\obj\Debug\net6.0\ref\Ex10MethodArray.dll
